@@ -1,0 +1,40 @@
+report_id,reporting_event_number,subject_ethnicity,subject_gender,subject_personid,offense_id,offense_code_id,subject_race,subject_age,victim_age,victim_ethnicity,victim_gender,victim_personid,victim_race,beat,sector,crime_description,precinct,event_start_date,approval_status,report_submitted_date,report_ucr_approved_by
+112696,65103817041,Not Hispanic Or Latino,Female,2682,58247,11638337928,White,-1,35,Not Hispanic Or Latino,Male,1448,Asian,L2,L,RCW - 9A.36.080 | HATE CRIME OFFENSE,North,6/25/2024 19:20,UCR Approved,6/26/2024 11:04,7075
+112696,65103817041,,,,-1,-1,,,,,,,,L2,L,-,North,6/25/2024 19:20,UCR Approved,6/26/2024 11:04,7075
+112696,65103817041,Not Hispanic Or Latino,Female,2682,58247,11638337928,White,-1,50,Not Hispanic Or Latino,Female,1449,White,L2,L,RCW - 9A.36.080 | HATE CRIME OFFENSE,North,6/25/2024 19:20,UCR Approved,6/26/2024 11:04,7075
+113267,65103817606,Not Hispanic Or Latino,Male,3340,58892,20181678124,White,59,36,Not Hispanic Or Latino,Unknown,1800,Black or African American,R1,R,Offense Contains Bias Elements -- CRIME,South,6/28/2024 10:33,UCR Approved,6/29/2024 9:35,9662
+113267,65103817606,,,,-1,-1,,,,,,,,R1,R,-,South,6/28/2024 10:33,UCR Approved,6/29/2024 9:35,9662
+113267,65103817606,Not Hispanic Or Latino,Male,3340,58893,12607733420,White,59,36,Not Hispanic Or Latino,Unknown,1800,Black or African American,R1,R,RCW 9A.46.020.2A I HARASSMENT - MISDEMEANOR,South,6/28/2024 10:33,UCR Approved,6/29/2024 9:35,9662
+113428,65103817772,,,,-1,-1,,,,,,,,R2,R,-,South,6/29/2024 14:20,UCR Approved,6/29/2024 16:52,9764
+113428,65103817772,Not Hispanic Or Latino,Male,3508,59066,4164544882,Black or African American,70,54,Unknown,Male,1921,White,R2,R,SMC - - 12A.06.115 | MALICIOUS HARASSMENT,South,6/29/2024 14:20,UCR Approved,6/29/2024 16:52,9764
+111257,65103815568,-,-,1001,56592,4164508584,-,-1,50,Not Hispanic Or Latino,Male,1,Black or African American,K3,K,"RCW - 9A.60 | FRAUD, IDENTITY THEFT",West,6/15/2024 9:05,UCR Approved,6/19/2024 22:32,9662
+111257,65103815568,,,,-1,-1,,,,,,,,K3,K,-,West,6/15/2024 9:05,UCR Approved,6/19/2024 22:32,9662
+111259,65103815569,-,-,1002,56593,4164501802,-,-1,25,Not Hispanic Or Latino,Male,77,White,,-,SMC - 12A.08.060 | THEFT-OTH,,6/18/2024 1:00,UCR Approved,6/19/2024 22:33,7271
+111259,65103815569,,,,-1,-1,,,,,,,,,-,-,,6/18/2024 1:00,UCR Approved,6/19/2024 22:33,7271
+111254,65103815570,,,,-1,-1,,,,,,,,S1,S,-,South,6/19/2024 19:51,Approved,6/19/2024 22:37,-
+111254,65103815570,-,-,1003,56594,4164528225,-,-1,,,,,,S1,S,Property Found,South,6/19/2024 19:51,Approved,6/19/2024 22:37,-
+111254,65103815570,Unknown,Female,1004,56594,4164528225,Unknown,49,,,,,,S1,S,Property Found,South,6/19/2024 19:51,Approved,6/19/2024 22:37,-
+111256,65103815571,,,,-1,-1,,,,,,,,L1,L,-,North,6/19/2024 21:40,Approved,6/19/2024 22:40,-
+111256,65103815571,Not Hispanic Or Latino,Male,1005,56595,4164546603,White,37,,,,,,L1,L,Disturbance-Other,North,6/19/2024 21:40,Approved,6/19/2024 22:40,-
+111242,65103815572,,,,-1,-1,,,,,,,,S3,S,-,South,6/16/2024 18:49,Approved,6/19/2024 22:44,-
+111242,65103815572,Unknown,Female,1006,56596,4164546603,White,49,,,,,,S3,S,Disturbance-Other,South,6/16/2024 18:49,Approved,6/19/2024 22:44,-
+111242,65103815572,Not Hispanic Or Latino,Male,1007,56596,4164546603,White,24,,,,,,S3,S,Disturbance-Other,South,6/16/2024 18:49,Approved,6/19/2024 22:44,-
+111242,65103815572,Unknown,Male,1008,56596,4164546603,Black or African American,-1,,,,,,S3,S,Disturbance-Other,South,6/16/2024 18:49,Approved,6/19/2024 22:44,-
+111238,65103815573,Unknown,Male,1009,56597,4164544760,Unknown,26,65,Unknown,Female,170,White,B3,B,RCW - 9A.36.041 | ASSAULT - ASSAULT 4,North,6/15/2024 19:46,UCR Approved,6/19/2024 22:57,9739
+111238,65103815573,Unknown,Male,1009,56597,4164544760,Unknown,26,-1,Unknown,Male,296,Unknown,B3,B,RCW - 9A.36.041 | ASSAULT - ASSAULT 4,North,6/15/2024 19:46,UCR Approved,6/19/2024 22:57,9739
+111238,65103815573,Unknown,Male,1009,56598,4164540870,Unknown,26,-1,Unknown,Male,4004,Unknown,B3,B,RCW - 9A.36.031 | ASSAULT - ASSAULT 3,North,6/15/2024 19:46,UCR Approved,6/19/2024 22:57,9739
+111238,65103815573,Unknown,Male,1009,56597,4164544760,Unknown,26,-1,Unknown,Male,4004,Unknown,B3,B,RCW - 9A.36.041 | ASSAULT - ASSAULT 4,North,6/15/2024 19:46,UCR Approved,6/19/2024 22:57,9739
+111238,65103815573,Unknown,Male,1009,56597,4164544760,Unknown,26,26,Unknown,Female,4005,Unknown,B3,B,RCW - 9A.36.041 | ASSAULT - ASSAULT 4,North,6/15/2024 19:46,UCR Approved,6/19/2024 22:57,9739
+111238,65103815573,,,,-1,-1,,,,,,,,B3,B,-,North,6/15/2024 19:46,UCR Approved,6/19/2024 22:57,9739
+111238,65103815573,Unknown,Male,1009,56598,4164540870,Unknown,26,-1,Unknown,Male,296,Unknown,B3,B,RCW - 9A.36.031 | ASSAULT - ASSAULT 3,North,6/15/2024 19:46,UCR Approved,6/19/2024 22:57,9739
+111264,65103815574,Hispanic Or Latino,Male,1010,56599,4164523480,White,37,,,,,,K3,K,Disturbance-Family-No Crime,West,6/19/2024 21:48,Approved,6/19/2024 23:06,-
+111264,65103815574,Unknown,Female,1011,56599,4164523480,Black or African American,27,,,,,,K3,K,Disturbance-Family-No Crime,West,6/19/2024 21:48,Approved,6/19/2024 23:06,-
+111264,65103815574,,,,-1,-1,,,,,,,,K3,K,-,West,6/19/2024 21:48,Approved,6/19/2024 23:06,-
+111262,65103815575,,,,-1,-1,,,,,,,,N2,N,-,North,6/19/2024 21:35,Approved,6/19/2024 23:09,-
+111262,65103815575,Not Hispanic Or Latino,Male,1012,56600,4164514458,Black or African American,22,,,,,,N2,N,Suspicious Circumstance,North,6/19/2024 21:35,Approved,6/19/2024 23:09,-
+111252,65103815576,Not Hispanic Or Latino,Male,1013,56601,4164508514,Black or African American,48,20,Not Hispanic Or Latino,Male,295,White,U2,U,RCW - 9A.56.068 | POSSESSION OF A STOLEN MOTOR VEHICLE,North,6/19/2024 13:03,UCR Approved,6/19/2024 23:10,9662
+111252,65103815576,,,,-1,-1,,,,,,,,U2,U,-,North,6/19/2024 13:03,UCR Approved,6/19/2024 23:10,9662
+111252,65103815576,Not Hispanic Or Latino,Male,1013,56602,4164526402,Black or African American,48,20,Not Hispanic Or Latino,Male,295,White,U2,U,RCW - 9A.56.160 | POSSESSION OF STOLEN PROPERTY 2,North,6/19/2024 13:03,UCR Approved,6/19/2024 23:10,9662
+111252,65103815576,Not Hispanic Or Latino,Male,1013,56601,4164508514,Black or African American,48,24,Unknown,Female,169,Unknown,U2,U,RCW - 9A.56.068 | POSSESSION OF A STOLEN MOTOR VEHICLE,North,6/19/2024 13:03,UCR Approved,6/19/2024 23:10,9662
+111252,65103815576,Not Hispanic Or Latino,Male,1013,56603,4164539445,Black or African American,48,,,,,,U2,U,SMC - 12A.16.010 | OBSTRUCTING A PUBLIC OFFICER,North,6/19/2024 13:03,UCR Approved,6/19/2024 23:10,9662
+111252,65103815576,Not Hispanic Or Latino,Male,1013,56604,4164527554,Black or African American,48,,,,,,U2,U,RCW - 9.41.040.1A | FIREARM POSS UNLAWFUL 1,North,6/19/2024 13:03,UCR Approved,6/19/2024 23:10,9662

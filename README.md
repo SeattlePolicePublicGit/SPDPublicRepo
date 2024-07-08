@@ -8,3 +8,4 @@ Public Data sets are leveraged in these projects and can be found at [SPD Open D
 
 ### Projects Currently Published
 * PSM (Propensity Score Matching)
+* Bias Crimes NLP
