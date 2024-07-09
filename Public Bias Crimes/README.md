@@ -20,7 +20,7 @@ Briefly, every 24 hours, newly submitted I/O reports are passed through:
 
 1. The ‘feature_engineering_inference’ job, where demographic and text features are extracted. The specific process is described in ‘feature_engineering_inference_documentation.’
 2. The ‘daily_predictions’ job, where predicted labels are generated for each report using the trained classification model.
-3. Although not provided in this repository, a call is made to a Mark43 API to create a task for every report associated to a positive prediction. We discuss a more manual alternative in the feature_engineering_training_documentation.
+3. Although not provided in this repository, a call is made to a [Mark43 API](https://mark43.com/resources/blog/seattle-pd-bias-crime-detection/) to create a task for every report associated to a positive prediction. We discuss a more manual alternative in the feature_engineering_training_documentation.
 
 Every month:
 
