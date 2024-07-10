@@ -49,7 +49,7 @@ The dummy dataset was created with randomly generated unique identifiers, as wel
 
 At SPD, a 'New Bias Crime Confirmation' RMS task is created and assigned to the Bias Crime Unit for every report that gets a positive prediction so that the report is reviewed and adjusted as needed: 
 
-** insert pictures here **
+![Mark43 Task](./Attachments/Mark43_Task.png)
 
 As such, when updating the training data, we read an RMS record table of completed tasks, a log of calls to the RMS API, and the updated report fields to relabel reports accordingly. The 'offenses.csv' file contains the 'is_suspected_hate_crime' column, which would be one of the fields updated by the bias crime unit.
 
