@@ -7,5 +7,6 @@ In relation to Seattle PD’s (SPD) Bias-Free Policing, the Consent Decree inclu
 Public Data sets are leveraged in these projects and can be found at [SPD Open Data](https://data.seattle.gov/)
 
 ### Projects Currently Published
-* PSM (Propensity Score Matching)
+* PSM (Propensity Score Matching - Race Disparity)
 * Bias Crimes NLP
+* Gender Disparity
